@@ -2,8 +2,8 @@
   "name": "Emoji Conventional Comments Button",
   "version": "0.1.0",
   "manifest_version": 3,
-  "description": "An extension to quickly add conventional comments",
-  "homepage_url": "https://conventionalcomments.org/",
+  "description": "An extension to quickly add conventional comments with emojis",
+  "homepage_url": "https://github.com/yoanbernabeu/Emoji-Conventional-Comments-Button",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
