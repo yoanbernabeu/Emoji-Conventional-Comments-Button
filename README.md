@@ -1,6 +1,6 @@
-# Emoji Conventional Comments button
+# Emoji Conventional Comments button (GitLab)
 
-This is a fork of [Conventional Comments button](https://gitlab.com/ftechz/conventional-comments-button) which simply adds Emojis to make comments more visual and fun!
+This is a fork of [Conventional Comments button](https://gitlab.com/ftechz/conventional-comments-button) which simply adds Emojis to make comments more visual and fun on GitLab !
 
 > This is a tiny extension that adds a conventional comment button to GitLab file explorer comments, allowing to quickly leave a structured semantic comment during your MR reviews!
 

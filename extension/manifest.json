@@ -1,8 +1,8 @@
 {
-  "name": "Emoji Conventional Comments Button",
+  "name": "Emoji Conventional Comments Button (GitLab)",
   "version": "0.1.0",
   "manifest_version": 3,
-  "description": "An extension to quickly add conventional comments with emojis",
+  "description": "An extension to quickly add conventional comments with emojis on GitLab",
   "homepage_url": "https://github.com/yoanbernabeu/Emoji-Conventional-Comments-Button",
   "icons": {
     "16": "icons/icon16.png",

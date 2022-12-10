@@ -1,4 +1,4 @@
-const scriptId = "conventional-comments-button";
+const scriptId = "emoji-conventional-comments-button";
 const defaultHost = 'https://gitlab.com';
 
 async function registerContentScripts(hosts) {
